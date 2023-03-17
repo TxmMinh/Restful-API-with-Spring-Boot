@@ -43,7 +43,7 @@ Use method POST and send request to http://localhost:8083/api/tutorials with con
 
 ![Untitled3](https://user-images.githubusercontent.com/93864928/225975312-69c7b908-5c8a-4a0e-8f6c-76ed6adeeb51.png)
 
-Data will save in database
+Data will be saved in database
 
 ![Untitled5](https://user-images.githubusercontent.com/93864928/225976982-d79ca3da-6c1c-4dc9-bba6-a94acc930c8a.png)
 
